@@ -205,6 +205,10 @@ $noisy = 0;            # Set to 1 if you want noisy reports.
   "hs" => "haskell", "lhs" => "haskell",
    # ???: .pco is Oracle Cobol
   "jsp" => "jsp",  # Java server pages
+  #new file types:
+  "css" => "css",
+  "xml" => "xml",
+  "js" => "js",
 );
 
 
